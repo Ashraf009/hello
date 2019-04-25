@@ -2,16 +2,16 @@
 <testng-results skipped="0" failed="1" ignored="0" total="3" passed="2">
   <reporter-output>
   </reporter-output>
-  <suite name="Default suite" duration-ms="65" started-at="2019-04-25T20:43:48Z" finished-at="2019-04-25T20:43:48Z">
+  <suite name="Suite" duration-ms="53" started-at="2019-04-25T22:13:40Z" finished-at="2019-04-25T22:13:40Z">
     <groups>
     </groups>
-    <test name="Default test" duration-ms="65" started-at="2019-04-25T20:43:48Z" finished-at="2019-04-25T20:43:48Z">
+    <test name="Test" duration-ms="53" started-at="2019-04-25T22:13:40Z" finished-at="2019-04-25T22:13:40Z">
       <class name="test.test">
-        <test-method status="PASS" signature="Test1()[pri:0, instance:test.test@5dfcfece]" name="Test1" duration-ms="15" started-at="2019-04-25T20:43:48Z" finished-at="2019-04-25T20:43:48Z">
+        <test-method status="PASS" signature="Test1()[pri:0, instance:test.test@5dfcfece]" name="Test1" duration-ms="11" started-at="2019-04-25T22:13:40Z" finished-at="2019-04-25T22:13:40Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- Test1 -->
-        <test-method status="FAIL" signature="Test2()[pri:0, instance:test.test@5dfcfece]" name="Test2" duration-ms="4" started-at="2019-04-25T20:43:48Z" finished-at="2019-04-25T20:43:48Z">
+        <test-method status="FAIL" signature="Test2()[pri:0, instance:test.test@5dfcfece]" name="Test2" duration-ms="3" started-at="2019-04-25T22:13:40Z" finished-at="2019-04-25T22:13:40Z">
           <exception class="java.lang.AssertionError">
             <message>
               <![CDATA[expected [10] but found [20]]]>
@@ -56,11 +56,11 @@ at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:77)
           <reporter-output>
           </reporter-output>
         </test-method> <!-- Test2 -->
-        <test-method status="PASS" signature="Test3()[pri:0, instance:test.test@5dfcfece]" name="Test3" duration-ms="3" started-at="2019-04-25T20:43:48Z" finished-at="2019-04-25T20:43:48Z">
+        <test-method status="PASS" signature="Test3()[pri:0, instance:test.test@5dfcfece]" name="Test3" duration-ms="2" started-at="2019-04-25T22:13:40Z" finished-at="2019-04-25T22:13:40Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- Test3 -->
       </class> <!-- test.test -->
-    </test> <!-- Default test -->
-  </suite> <!-- Default suite -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
 </testng-results>
