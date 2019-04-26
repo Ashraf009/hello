@@ -28,7 +28,7 @@ public void Test1()
 @Test
 public void Test2()
 {
-	 Assert.assertEquals(10, 10);
+	 Assert.assertEquals(20, 20);
 }
 
 @Test
