@@ -34,7 +34,7 @@ public void Test2()
 @Test
 public void Test3()
 {
-	 Assert.assertEquals(3, 3);
+	 Assert.assertEquals(4, 3);
 }
 
 }
