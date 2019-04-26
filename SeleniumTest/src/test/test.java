@@ -22,19 +22,19 @@ public class test {
 @Test
 public void Test1()
 {
-	 Assert.assertEquals(12, 12);
+	 Assert.assertEquals(1, 1);
 }
 
 @Test
 public void Test2()
 {
-	 Assert.assertEquals(11, 11);
+	 Assert.assertEquals(2, 2);
 }
 
 @Test
 public void Test3()
 {
-	 Assert.assertEquals(12, 12);
+	 Assert.assertEquals(3, 3);
 }
 
 }
