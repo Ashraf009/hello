@@ -22,7 +22,7 @@ public class test {
 @Test
 public void Test1()
 {
-	 Assert.assertEquals(13, 13);
+	 Assert.assertEquals(12, 13);
 }
 
 @Test
