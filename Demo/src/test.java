@@ -11,7 +11,7 @@ public class test {
 	@Test
 	public void Test1()
 	{
-		System.out.print("pakiskkkn");
+		System.out.print("pakiskjjjkkn");
 	}
 	
 }
