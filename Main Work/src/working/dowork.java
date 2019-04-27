@@ -7,7 +7,7 @@ public class dowork {
 	
 	
 	public static void main(String[] args) {
-		System.out.print("working now good");
+		System.out.print("working kk now good");
     }
 
 }
