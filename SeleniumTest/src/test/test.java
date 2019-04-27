@@ -28,13 +28,13 @@ public void Test1()
 @Test
 public void Test2()
 {
-	 Assert.assertEquals(6, 6);
+	 Assert.assertEquals(3, 6);
 }
 
 @Test
 public void Test3()
 {
-	 Assert.assertEquals(44, 44);
+	 Assert.assertEquals(34, 44);
 }
 
 }
