@@ -5,9 +5,7 @@
     <classes>
       <class name="test.test">
         <methods>
-          <include name="Test2"/>
           <include name="Test3"/>
-          <include name="Test1"/>
         </methods>
       </class> <!-- test.test -->
     </classes>
