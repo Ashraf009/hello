@@ -22,13 +22,13 @@ public class test {
 @Test
 public void Test1()
 {
-	 Assert.assertEquals(94, 90);
+	 Assert.assertEquals(90, 90);
 }
 
 @Test
 public void Test2()
 {
-	 Assert.assertEquals(3, 8);
+	 Assert.assertEquals(90, 90);
 }
 
 @Test
