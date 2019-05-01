@@ -6,6 +6,6 @@ public class firstTest {
 	@Test
 	public void Test1()
 	{
-		System.out.print("pakiskjjjkkn");
+		System.out.print("pakiskhhhjjjkkn");
 	}
 }
